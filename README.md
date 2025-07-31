@@ -72,7 +72,6 @@
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  /> |  |  | <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  /> | <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  /> |
 
-
 ---
 
 <h3 align="left">GitHub Stats:</h3>  
@@ -81,3 +80,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=itsmeumaima&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmeumaima&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmeumaima/itsmeumaima/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsmeumaima/itsmeumaima/output/pacman-contribution-graph.svg">
+</picture>
