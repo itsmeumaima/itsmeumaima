@@ -53,3 +53,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmeumaima&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+//pyhton, C++, C#, HTML, CSS, JS
+//MySQL,MOngoDB, SQL Lite, Oracle
+//.NET
+//VS Code, Pycharm, Jupyter, Git, Figma, VS, Power BI
+//Matplotlib, numpy, pandas, sckit-learn, pickle, Django, Flask
