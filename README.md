@@ -47,17 +47,16 @@
   </a> 
 </p>  
 
----
-
-<h3 align="left">GitHub Stats:</h3>  
-<div align="center"
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeumaima&show_icons=true&locale=en&layout=compact" height="150" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeumaima&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmeumaima&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-
 //pyhton, C++, C#, HTML, CSS, JS
 //MySQL,MOngoDB, SQL Lite, Oracle
 //.NET
 //VS Code, Pycharm, Jupyter, Git, Figma, VS, Power BI
 //Matplotlib, numpy, pandas, sckit-learn, pickle, Django, Flask
+---
+
+<h3 align="left">GitHub Stats:</h3>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeumaima&show_icons=true&locale=en&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeumaima&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmeumaima&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
