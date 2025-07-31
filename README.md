@@ -35,21 +35,6 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-</p>  
-
-###
-
 <h3 align="left">🛠️ Languages I speak</h3>
 
 ###
@@ -57,8 +42,6 @@
 | C# | Python | HTML | CSS | JS | C++ |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  /> | <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  /> | <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  /> | <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  /> | <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  /> | <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  /> |
-
-###
 
 ###
 
@@ -80,10 +63,16 @@
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  /> | <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  /> |  | <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  /> | <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  /> | <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  /> | <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  /> |
 
+
 ###
 
-//.NET
-//Matplotlib, numpy, pandas, sckit-learn, pickle, Django, Flask
+🔧 My Go-To Libraries
+
+| Matplotlib | Numpy | Pandas | Scikit-Learn | Pickle | Django | Flask |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  /> |  |  | <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  /> | <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  /> |
+
+
 ---
 
 <h3 align="left">GitHub Stats:</h3>  
