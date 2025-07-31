@@ -17,9 +17,10 @@
   
 - Something
 
-  ###
+###
+<br>
 
-  <h3 align="left">📡 Ping me up - I don't byte </h3>
+<h3 align="left">📡 Ping me up - I don't byte </h3>
 
 <div align="left">
   <a href="mailto:umaimarauf2005@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
@@ -47,10 +48,41 @@
   </a> 
 </p>  
 
-//pyhton, C++, C#, HTML, CSS, JS
-//MySQL,MOngoDB, SQL Lite, Oracle
+###
+
+<h3 align="left">🛠️ Languages I speak</h3>
+
+###
+
+| C# | Python | HTML | CSS | JS | C++ |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  /> | <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  /> | <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  /> | <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  /> | <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  /> | <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  /> |
+
+###
+
+###
+
+<h3 align="left">📦 Data Storage Friends</h3>
+
+###
+
+| Oracle | MySQL | SQL Lite | Mongo |
+|:----------:|:----------:|:----------:|:----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  /> | <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  /> |  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  /> | <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  /> |
+
+###
+
+<h3 align="left">🧠 My Productivity Toolbox</h3>
+
+###
+
+| Visual Studio Code | Visual Studio | Power BI | PyCharm | Figma | Git | Jupyter |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  /> | <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  /> |  | <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  /> | <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  /> | <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  /> | <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  /> |
+
+###
+
 //.NET
-//VS Code, Pycharm, Jupyter, Git, Figma, VS, Power BI
 //Matplotlib, numpy, pandas, sckit-learn, pickle, Django, Flask
 ---
 
